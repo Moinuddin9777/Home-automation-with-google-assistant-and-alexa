@@ -13,3 +13,14 @@ Jumper wires
 Connecting wires  
 Electrical devices(Bulbs)  
 Holders(and any other basic equipment required)  
+### Software details  
+Cross Platform API - IFTTT or Sinric Pro  
+Control API - Blynk or Adafruit IO  
+IDE - Arduino Genuino IDE  
+### Tutorial sketch
+1.API configuration  
+2.Hardware Assembly  
+3.Code writing and uploading  
+4.Debugging  
+5.Testing  
+### Tutorial
