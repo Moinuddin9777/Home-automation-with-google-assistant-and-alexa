@@ -13,8 +13,8 @@
 
 #include <map>
 
-#define WIFI_SSID         "MOs wifi"    
-#define WIFI_PASS         "password"
+#define WIFI_SSID         "realme 3 Pro"    
+#define WIFI_PASS         "12345678"
 #define APP_KEY           "e8480bbe-12eb-466c-8b36-442fa35ef9a7"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
 #define APP_SECRET        "7d1445dd-19c9-4e1f-9d46-bebca078f417-287d04d3-795c-4421-8622-0b9f10d0f189"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
 
